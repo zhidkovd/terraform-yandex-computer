@@ -22,15 +22,15 @@ variable "hostname" {
 }
 
 variable "yandex-token" {
-  default = "AQAAAAA-ZqmLAATuwQD36MXdnUqZoqVk94lf7_M"
+  default = "<token>"
 }
 
 variable "yandex-cloud-id" {
-  default = "b1gp3o790jrgkoca9r5a"
+  default = "<cloud-id>"
 }
 
 variable "yandex-folder-id" {
-  default = "b1g0k66lhai1nojjt1ks"
+  default = "<folder-id>"
 }
 
 variable "instance_root_disk" {
