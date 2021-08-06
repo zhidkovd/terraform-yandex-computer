@@ -27,8 +27,11 @@ yc config list
 Результат:
 
 token: ****
+
 cloud-id: ****
+
 folder-id: ****
+
 compute-default-zone: ru-central1-a
 
 Также для подключения к VM нужен публичный ssh key, для это выполнить команду:
